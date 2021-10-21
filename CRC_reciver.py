@@ -1,12 +1,4 @@
 # -*- coding: utf-8 -*-
-#GROUP NO. 5
-#BT19CSE079
-#BT19CSE080
-#BT19CSE087
-#BT19CSE088
-#BT19CSE133
-#BT19CSE136
-
 """ CRC- RCIEVER """
 
 import socket
